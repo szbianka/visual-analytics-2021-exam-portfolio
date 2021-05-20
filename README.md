@@ -7,15 +7,9 @@ The code has been developed on a computer with Windows 10 operating system. Ther
 ## General structure of the folders
 
 | README      | Includes descriptions and information about reproducibility of the projects. |
-| ----------- | ----------- |
 | utils folder | includes utility functions used in the scripts. |
-|-----------   | ----------- |
-| Paragraph   | Text        |
-
-readme, 
-utils, 
-requirements.txt, 
-src, 
-data, 
-Output - contains the output files from test running
-venv
+| requirements.txt | includes a list of all the required python packages for reproducing the scripts |
+| src folder   | includes the .py scripts       |
+| data folder | includes the data used in the scripts|
+| output folder | includes the output files of the script|
+| envs folder | for Windows users. Includes the setup of the virtual environments |
