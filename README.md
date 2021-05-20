@@ -7,6 +7,7 @@ The code has been developed on a computer with Windows 10 operating system. Ther
 ## General structure of the folders
 
 | README      | Includes descriptions and information about reproducibility of the projects. |
+| ----------- | ----------- |
 | utils folder | includes utility functions used in the scripts. |
 | requirements.txt | includes a list of all the required python packages for reproducing the scripts |
 | src folder   | includes the .py scripts       |
