@@ -1,3 +1,4 @@
+# Edge detection
 ## Assignment description
 Project 1 is equivalent to class Assignment 3 in the Visual Analytics course 2021.
 The purpose of the assignment was to use computer vision to extract specific features from images. In particular, to find language-like objects, such as letters and punctuation.
