@@ -20,11 +20,13 @@ In order to run this script, open your terminal and:
 2. Navigate to the appropriate directory (Project1) 
 `cd visual-analytics-2021-exam-portfolio/Project1`
 3. activate a virtual environment (recommended) by:
+(NB: The only reason I did not include the already made virtual environment in this repository is because the file was too big on my Windows computer.)
 On Windows:
 - If you have not used virtual environments before, you might need to run the following command first `py -m pip install --user virtualenv`
-- Navigate to the env folder by `cd env` 
-- Activate the environment by `edge\Scripts\activate`
-On MAC:
+- Navigate to the env folder by `cd envs`
+- Create the virtual environment by `virtualenvs venv`
+- Activate the environment by `venv\Scripts\activate`
+On MAC or worker02:
 `python3 -m venv edge` 
 `source edge/bin/activate
 4. Navigate back to the appropriate folder (Project1) by `cd ..`
