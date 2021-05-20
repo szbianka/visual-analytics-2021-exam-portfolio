@@ -14,7 +14,6 @@ The code has been developed on a computer with Windows 10 operating system. Ther
 | src folder   | includes the .py scripts       |
 | data folder | includes the data used in the scripts|
 | output folder | includes the output files of the script|
-| envs folder | for Windows users. Includes the setup of the virtual environments |
 
 ## Acknowledgements
 To Ross Deans Kristensen-McLachlan for teaching the course and for the structural setup of the projects, as well as for developing some of the functions used in these projects.
