@@ -36,7 +36,8 @@ On MAC or Worker02:
 4. Navigate back to the appropriate folder (Project1) by `cd ..`
 5. Install the necessary libraries by `pip install -r requirements.txt`
 6. Navigate to the appropriate folder (src) by `cd src`
-7. Run the scripts one by one (as in after each other): 
+7. Run the scripts one by one (as in after each other):
+ 
 Windows: 
 
 1. `python lr-mnist.py`
