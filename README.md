@@ -1,4 +1,4 @@
-# visual-analytics-2021-exam-portfolio
+# Visual Analytics 2021 exam portfolio
 This repository contains projects for the Visual Analytics exam in the Cultural Data Science 2021 supplementary course at Aarhus University.
 The portfolio - following the exam regulations - consists of 4 projects in total - of which three are class assignments and one is a self-assigned project. Each assignment is linked to a separate folder, which contains all the necessary files and guidelines for reproducing the project, as well as explanations about the project.
 
@@ -15,3 +15,7 @@ The code has been developed on a computer with Windows 10 operating system. Ther
 | data folder | includes the data used in the scripts|
 | output folder | includes the output files of the script|
 | envs folder | for Windows users. Includes the setup of the virtual environments |
+
+## Acknowledgements
+To Ross Deans Kristensen-McLachlan for teaching the course and for the structural setup of the projects, as well as for developing some of the functions used in these projects.
+
