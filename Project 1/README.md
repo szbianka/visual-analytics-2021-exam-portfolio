@@ -11,7 +11,6 @@ The linked GitHub repository contains:
 - edge_detection.py script that can be run from the command line
 - a requirements.txt file listing the required Python libraries for being able to run the script
 - a edge_venv.sh script for setting up a virtual environment for running the script (recommended) - NB: for MAC users
-- an env folder for setting up a virtual environment for running the script (recommended) -NB: for Windows users
 - a data folder, which contains the data used for this project
 - utils folder with utility functions used in the script (written by Ross Deans Kristensen-McLachlan)
 - output folder containing the output files
@@ -34,7 +33,7 @@ On MAC or worker02:
 5. Install the necessary libraries by `pip install -r requirements.txt`
 6. Navigate to the appropriate folder (src) by `cd src`
 7. Run the script by: 
-Windows: `python3 edge_detection.py`
+Windows: `python edge_detection.py`
 Mac:`python3 edge_detection.py`
 8. deactivate virtual environment by `deactivate`
 
