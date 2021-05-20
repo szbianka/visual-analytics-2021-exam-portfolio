@@ -12,7 +12,6 @@ The linked GitHub repository contains:
 - nn-mnist.py Neural Network Classifier script that can be run from the command line
 - a requirements.txt file listing the required Python libraries for being able to run the script
 - a venv_venv.sh script for setting up a virtual environment for running the script (recommended) - NB: for MAC users
-- an env folder for setting up a virtual environment for running the script (recommended) -NB: for Windows users
 - utils folder with utility functions used in the script (written by Ross Deans Kristensen-McLachlan)
 - output folder containing the output files (Already contains outputs from the test run, if run again with the same parameters, the files will be overwritten. The nn_confusion_matrix.txt contains the confusion matrix run with 1 epoch for time-saving reasons.)
 
