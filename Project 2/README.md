@@ -38,11 +38,17 @@ On MAC or Worker02:
 6. Navigate to the appropriate folder (src) by `cd src`
 7. Run the scripts one by one (as in after each other): 
 Windows: 
+
 1. `python lr-mnist.py`
- 		2. `python nn-mnist.py`
+
+2. `python nn-mnist.py`
+
 Mac:
+
 1. `python3  lr-mnist.py`
+
 2.`python3  nn-mnist.py`
+
 NB: the scripts are interactive: type `python lr-mnist.py --help`  or open and inspect the scripts for receiving guidelines on which arguments can be modified and how. Default values are set, so it is not necessary to change the arguments. An example on modifying output file name: python lr-mnist.py --outfile *name-of-your-choosing*
 
 8. deactivate virtual environment by `deactivate`
